@@ -1,0 +1,40 @@
+C:\Users\User\source\repos\alarım uygulaması\alarım uygulaması\bin\Debug\alarım uygulaması.exe.config
+C:\Users\User\source\repos\alarım uygulaması\alarım uygulaması\bin\Debug\alarım uygulaması.exe
+C:\Users\User\source\repos\alarım uygulaması\alarım uygulaması\bin\Debug\alarım uygulaması.pdb
+C:\Users\User\source\repos\alarım uygulaması\alarım uygulaması\obj\Debug\alarım uygulaması.csprojAssemblyReference.cache
+C:\Users\User\source\repos\alarım uygulaması\alarım uygulaması\obj\Debug\alarım_uygulaması.Properties.Resources.resources
+C:\Users\User\source\repos\alarım uygulaması\alarım uygulaması\obj\Debug\alarım uygulaması.csproj.GenerateResource.cache
+C:\Users\User\source\repos\alarım uygulaması\alarım uygulaması\obj\Debug\alarım uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\alarım uygulaması\alarım uygulaması\obj\Debug\alarım uygulaması.exe
+C:\Users\User\source\repos\alarım uygulaması\alarım uygulaması\obj\Debug\alarım uygulaması.pdb
+C:\Users\User\source\repos\alarım uygulaması\alarım uygulaması\obj\Debug\alarm_uygulaması.Form1.resources
+C:\Users\Asus\Desktop\alarım uygulaması\alarım uygulaması\bin\Debug\alarım uygulaması.exe.config
+C:\Users\Asus\Desktop\alarım uygulaması\alarım uygulaması\bin\Debug\alarım uygulaması.exe
+C:\Users\Asus\Desktop\alarım uygulaması\alarım uygulaması\bin\Debug\alarım uygulaması.pdb
+C:\Users\Asus\Desktop\alarım uygulaması\alarım uygulaması\obj\Debug\alarım uygulaması.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\alarım uygulaması\alarım uygulaması\obj\Debug\alarm_uygulaması.Form1.resources
+C:\Users\Asus\Desktop\alarım uygulaması\alarım uygulaması\obj\Debug\alarım_uygulaması.Properties.Resources.resources
+C:\Users\Asus\Desktop\alarım uygulaması\alarım uygulaması\obj\Debug\alarım uygulaması.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\alarım uygulaması\alarım uygulaması\obj\Debug\alarım uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\alarım uygulaması\alarım uygulaması\obj\Debug\alarım uygulaması.exe
+C:\Users\Asus\Desktop\alarım uygulaması\alarım uygulaması\obj\Debug\alarım uygulaması.pdb
+C:\Users\Asus\Desktop\alarm uygulaması\alarım uygulaması\bin\Debug\alarım uygulaması.exe.config
+C:\Users\Asus\Desktop\alarm uygulaması\alarım uygulaması\bin\Debug\alarım uygulaması.exe
+C:\Users\Asus\Desktop\alarm uygulaması\alarım uygulaması\bin\Debug\alarım uygulaması.pdb
+C:\Users\Asus\Desktop\alarm uygulaması\alarım uygulaması\obj\Debug\alarım uygulaması.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\alarm uygulaması\alarım uygulaması\obj\Debug\alarm_uygulaması.Form1.resources
+C:\Users\Asus\Desktop\alarm uygulaması\alarım uygulaması\obj\Debug\alarım_uygulaması.Properties.Resources.resources
+C:\Users\Asus\Desktop\alarm uygulaması\alarım uygulaması\obj\Debug\alarım uygulaması.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\alarm uygulaması\alarım uygulaması\obj\Debug\alarım uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\alarm uygulaması\alarım uygulaması\obj\Debug\alarım uygulaması.exe
+C:\Users\Asus\Desktop\alarm uygulaması\alarım uygulaması\obj\Debug\alarım uygulaması.pdb
+C:\Users\Asus\Desktop\SaatVeAlarmUygulaması\alarm uygulaması\alarım uygulaması\bin\Debug\alarım uygulaması.exe.config
+C:\Users\Asus\Desktop\SaatVeAlarmUygulaması\alarm uygulaması\alarım uygulaması\bin\Debug\alarım uygulaması.exe
+C:\Users\Asus\Desktop\SaatVeAlarmUygulaması\alarm uygulaması\alarım uygulaması\bin\Debug\alarım uygulaması.pdb
+C:\Users\Asus\Desktop\SaatVeAlarmUygulaması\alarm uygulaması\alarım uygulaması\obj\Debug\alarım uygulaması.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\SaatVeAlarmUygulaması\alarm uygulaması\alarım uygulaması\obj\Debug\alarm_uygulaması.Form1.resources
+C:\Users\Asus\Desktop\SaatVeAlarmUygulaması\alarm uygulaması\alarım uygulaması\obj\Debug\alarım_uygulaması.Properties.Resources.resources
+C:\Users\Asus\Desktop\SaatVeAlarmUygulaması\alarm uygulaması\alarım uygulaması\obj\Debug\alarım uygulaması.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\SaatVeAlarmUygulaması\alarm uygulaması\alarım uygulaması\obj\Debug\alarım uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\SaatVeAlarmUygulaması\alarm uygulaması\alarım uygulaması\obj\Debug\alarım uygulaması.exe
+C:\Users\Asus\Desktop\SaatVeAlarmUygulaması\alarm uygulaması\alarım uygulaması\obj\Debug\alarım uygulaması.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "alarım uygulaması", "alarım uygulaması\alarım uygulaması.csproj", "{B68F3F37-5B9C-4E6A-BC18-462BA44C678A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B68F3F37-5B9C-4E6A-BC18-462BA44C678A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B68F3F37-5B9C-4E6A-BC18-462BA44C678A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B68F3F37-5B9C-4E6A-BC18-462BA44C678A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B68F3F37-5B9C-4E6A-BC18-462BA44C678A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D4B9401-C16F-4DC0-903A-99D41F8D1D23}
+	EndGlobalSection
+EndGlobal
